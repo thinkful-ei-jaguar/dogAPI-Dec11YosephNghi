@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    margin: 50px;
+}
+
+ul {
+    list-style-type: none;
+}

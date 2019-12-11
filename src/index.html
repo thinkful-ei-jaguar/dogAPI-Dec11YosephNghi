@@ -9,9 +9,9 @@
 <body>
     <h1>DISPLAY MULTIPLE RANDOM IMAGES FROM ALL DOGS COLLECTION</h1>
     <form>
-        <input value="3" required />
+        <input type="number" value="3" max="50" min="0" required />
         <button type="submit">Search</button>
     </form>
-    <img class="hidden js-newImage"/>
+    <ul class="results"></ul>
 </body>
 </html>
