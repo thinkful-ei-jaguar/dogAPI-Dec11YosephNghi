@@ -1,0 +1,23 @@
+{
+  "name": "dogAPI-Dec11YosephNghi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkful-ei-jaguar/dogAPI-Dec11YosephNghi.git"
+  },
+  "keywords": [],
+  "author": "Yoseph and Nghi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkful-ei-jaguar/dogAPI-Dec11YosephNghi/issues"
+  },
+  "homepage": "https://github.com/thinkful-ei-jaguar/dogAPI-Dec11YosephNghi#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
